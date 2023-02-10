@@ -1,4 +1,4 @@
 exp_dir/*
 datasets/*
-__pycache__/*
+*/__pycache__
 *.log
